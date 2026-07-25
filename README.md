@@ -1,4 +1,4 @@
-# Hey, I'm Shashank 👋
+# Hey, I'm Shashank Singh!! 👋
 
 I'm a passionate student developer who enjoys turning ideas into real applications. I love learning new technologies, solving problems, and creating clean, user-focused software.
 
