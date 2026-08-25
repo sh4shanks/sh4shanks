@@ -2,14 +2,14 @@
   <img src="./ascii-profile.png" width="500" alt="ASCII Portrait">
 </p>
 
-<h1 align="center">SHASHANK</h1>
+<h1 align="center">SHASHANK SINGH 😎 </h1>
 
 <p align="center">
   <code>BUILD • CREATE • EXPERIMENT • REPEAT</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/sh4shanks">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
