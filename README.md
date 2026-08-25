@@ -12,7 +12,7 @@
               │   AI  •  WEB  •  CREATIVE  TECH      │
               │   BUILDING  IDEAS  INTO  PRODUCTS    │
               └──────────────────────────────────────┘
-</div>
+</div> ```
 
 <p align="center">
   <img src="./ascii-profile.png" width="500" alt="ASCII Portrait">
