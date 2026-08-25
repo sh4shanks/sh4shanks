@@ -12,6 +12,8 @@
               │   AI  •  WEB  •  CREATIVE  TECH      │
               │   BUILDING  IDEAS  INTO  PRODUCTS    │
               └──────────────────────────────────────┘
+</div>
+
 <p align="center">
   <img src="./ascii-profile.png" width="420" alt="Shashank">
 </p>
