@@ -8,22 +8,37 @@
    ███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
    ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
 
+<div align="center">
+
+<pre>
+   ███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗ █████╗ ███╗   ██╗██╗  ██╗
+   ██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██╔══██╗████╗  ██║██║ ██╔╝
+   ███████╗███████║███████║███████╗███████║███████║██╔██╗ ██║█████╔╝
+   ╚════██║██╔══██║██╔══██║╚════██║██╔══██║██╔══██║██║╚██╗██║██╔═██╗
+   ███████║██║  ██║██║  ██║███████║██║  ██║██║  ██║██║ ╚████║██║  ██╗
+   ╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
+
               ┌──────────────────────────────────────┐
               │   AI  •  WEB  •  CREATIVE  TECH      │
               │   BUILDING  IDEAS  INTO  PRODUCTS    │
               └──────────────────────────────────────┘
-</div> ```
+</pre>
 
-<p align="center">
-  <img src="./ascii-profile.png" width="500" alt="ASCII Portrait">
-</p>
+<img src="./ascii-profile.png" width="500" alt="ASCII Portrait">
 
-<h1 align="center">SHASHANK SINGH</h1>
+<h1>SHASHANK SINGH</h1>
 
-<p align="center">
+<p>
   <code>BUILD • CREATE • EXPERIMENT • REPEAT</code>
 </p>
 
+<p>
+  <a href="https://github.com/sh4shanks">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+</div>
 <p align="center">
   <a href="https://github.com/sh4shanks">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
