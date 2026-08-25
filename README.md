@@ -15,19 +15,17 @@
 </div>
 
 <p align="center">
-  <img src="./ascii-profile.png" width="420" alt="Shashank">
+  <img src="./ascii-profile.png" width="500" alt="ASCII Portrait">
 </p>
 
-<h3 align="center">
-  FULL-STACK DEVELOPER • AI BUILDER • CREATIVE TECHNOLOGIST
-</h3>
+<h1 align="center">SHASHANK</h1>
 
 <p align="center">
-  Turning ideas into interactive experiences.
+  <code>BUILD • CREATE • EXPERIMENT • REPEAT</code>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/sh4shanks">
     <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github">
   </a>
 </p>
