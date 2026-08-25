@@ -2,13 +2,12 @@
   <img src="./ascii-profile.png" width="500" alt="Shashank ASCII Portrait">
 </p>
 
-<h1 align="center">Hey, I'm Shashank Singh😎!!👋</h1>
+<h1 align="center">Hey, I'm Shashank Singh!!😎 👋</h1>
 
 <p align="center">
   Developer • AI Enthusiast • Creative Technologist
 </p>
 
-# Hey, I'm Shashank Singh!! 👋
 
 I'm a passionate student developer who enjoys turning ideas into real applications. I love learning new technologies, solving problems, and creating clean, user-focused software.
 
