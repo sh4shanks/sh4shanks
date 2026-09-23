@@ -50,7 +50,7 @@
 <div align="center">
 
 <img
-  src="./assets/space-shooter.gif"
+  src="czl9707-space-shooter.gif"
   width="100%"
   alt="Space Shooter Animation">
 
