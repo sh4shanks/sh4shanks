@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="./pacman-contribution-graph.svg" width="100%" alt="Pac-Man Contribution Graph">
+<img src="https://raw.githubusercontent.com/sh4shanks/sh4shanks/output/pacman.svg" width="100%" alt="Pac-Man Contribution Graph">
 
 </div>
 
@@ -56,7 +56,7 @@ I want to build things that people can **use, explore, and remember.**
 │                                                             │
 │   SHASHANK SINGH                                            │
 │                                                             │
-│   > Student Developer                                      │
+│   > Student Developer                                       │
 │   > Building AI & Web Experiences                           │
 │   > Exploring Game Development                              │
 │   > Designing Interactive Interfaces                        │
@@ -137,6 +137,8 @@ Taking unusual ideas and turning them into working prototypes.
 ### LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+
+<br><br>
 
 ### FRAMEWORKS & TOOLS
 
@@ -260,6 +262,7 @@ Whether it's an AI assistant, an interactive game, a productivity tool, or a com
 </div>
 
 <!--
+
 ╔══════════════════════════════════════════════════════════════╗
 ║                     SHASHANK SINGH                          ║
 ║                                                              ║
@@ -267,4 +270,5 @@ Whether it's an AI assistant, an interactive game, a productivity tool, or a com
 ║   New projects. New experiments. New ideas.                  ║
 ║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
+
 -->
